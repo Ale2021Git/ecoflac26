@@ -1,0 +1,15 @@
+{
+  "name": "B.Braun - Escala",
+  "short_name": "B.Braun",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#00A97A",
+  "theme_color": "#00A97A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
