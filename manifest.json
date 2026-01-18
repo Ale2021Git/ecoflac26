@@ -2,7 +2,7 @@
   "name": "B.Braun - Escala",
   "short_name": "B.Braun",
   "start_url": "index.html",
-  "display": "standalone","form_factor":{"wide"}
+  "display": "standalone","form_factor":["wide"]
   "background_color": "#00A97A",
   "theme_color": "#00A97A",
   "icons": [
